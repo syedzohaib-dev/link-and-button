@@ -1,0 +1,39 @@
+.container{
+    width:666px;
+    border:3px solid red;
+    border-radius:8px;
+    background-color: rgb(243, 247, 28);
+    font-family: fantasy;
+    padding:34px;
+    margin: 44px auto;
+}
+h1{
+    text-align: center;
+}
+.btn{
+    background-color: rgb(15, 221, 159);
+    color:rgb(247, 19, 19);
+    border-radius: 4px;
+    padding:6px;
+    cursor: pointer;
+    text-decoration: none;
+    border:none;
+    font-family:fantasy;
+
+}
+a:hover{
+    background-color: rgb(241, 83, 207);
+    color: black;
+}
+a:active{
+    background-color: rgb(66, 66, 240);
+    color: aliceblue;
+}
+#click-me:hover{
+    background-color: rgb(75, 236, 60);
+    color: black;
+}
+#click-me:active{
+    background-color: rgb(179, 10, 179);
+    color: aliceblue;
+}
